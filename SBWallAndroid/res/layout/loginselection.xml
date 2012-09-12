@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+android:id="@+id/widget100"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+android:orientation="vertical"
+xmlns:android="http://schemas.android.com/apk/res/android"
+>
+<LinearLayout
+android:id="@+id/widget101"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+android:orientation="vertical"
+>
+<ImageView
+android:id="@+id/logo"
+android:src="@drawable/sbulogo"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content">
+</ImageView>
+
+<Button
+android:id="@+id/widget102"
+android:drawableLeft="@drawable/sbu"
+android:layout_width="fill_parent"
+android:layout_height="65dip"
+android:text="Login with SBUID"
+>
+</Button>
+
+<Button
+android:id="@+id/widget103"
+android:drawableLeft="@drawable/fb_icon"
+android:layout_width="fill_parent"
+android:layout_height="65dip"
+android:layout_marginTop="5dip"
+android:text="Login with FBID"
+>
+</Button>
+
+</LinearLayout>
+</LinearLayout>

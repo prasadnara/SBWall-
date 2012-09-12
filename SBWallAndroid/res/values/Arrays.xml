@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string-array name="feedbacktypelist">
+		<item>@string/feedbacktype1</item>
+		<item>@string/feedbacktype2</item>
+		<item>@string/feedbacktype3</item>
+	</string-array>
+	
+		<string-array name="locationslist">
+		<item>@string/location1</item>
+		<item>@string/location2</item>
+		<item>@string/location3</item>
+		<item>@string/location4</item>
+		<item>@string/location5</item>
+		<item>@string/location6</item>
+		<item>@string/location7</item>
+		<item>@string/location8</item>
+		<item>@string/location9</item>
+		<item>@string/location10</item>
+		<item>@string/location11</item>
+		<item>@string/location12</item>
+		<item>@string/location13</item>
+		<item>@string/location14</item>
+		<item>@string/location15</item>
+		<item>@string/location16</item>
+		<item>@string/location17</item>
+		<item>@string/location18</item>
+		<item>@string/location19</item>
+		<item>@string/location20</item>
+		<item>@string/location21</item>
+		<item>@string/location22</item>
+		<item>@string/location23</item>
+		<item>@string/location24</item>
+		<item>@string/location25</item>
+		<item>@string/location26</item>
+		<item>@string/location27</item>
+		<item>@string/location28</item>
+			</string-array>
+
+	
+	<string-array name="postExpiresIn">
+		<item>@string/tenMin</item>
+		<item>@string/thirtyMin</item>
+		<item>@string/oneHr</item>
+		<item>@string/twoHr</item>
+		<item>@string/threeHr</item>
+		<item>@string/fourHr</item>
+		<item>@string/fiveHr</item>
+		<item>@string/oneDay</item>
+		<item>@string/twoDay</item>
+	</string-array>
+
+	<string-array name="category">
+		<item>@string/food</item>
+		<item>@string/sports</item>
+		<item>@string/fun</item>
+		<item>@string/seminar</item>
+		<item>@string/others</item>
+	</string-array>
+	
+</resources>

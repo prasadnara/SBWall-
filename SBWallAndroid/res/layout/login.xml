@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:orientation="vertical"
+  android:layout_width="fill_parent"
+  android:layout_height="fill_parent">
+<TextView
+android:id="@+id/TVLoginID"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:text="Login-ID"
+android:layout_x="1px"
+android:layout_y="64px"
+>
+</TextView>
+<EditText
+android:id="@+id/ETLogin"
+android:layout_width="match_parent"
+android:layout_height="wrap_content"
+android:text="Login-ID"
+android:textSize="18sp"
+android:layout_x="94px"
+android:layout_y="57px"
+
+>
+</EditText>
+<TextView
+android:id="@+id/TVPassword"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:text="Password"
+android:layout_x="1px"
+android:layout_y="120px"
+>
+</TextView>
+<EditText
+android:id="@+id/ETPassword"
+android:layout_width="match_parent"
+android:layout_height="wrap_content"
+android:text="password"
+android:textSize="18sp"
+android:layout_x="87px"
+android:layout_y="110px"
+android:password="true"
+>
+</EditText>
+<Button
+android:id="@+id/BtRegister"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:text="Register"
+android:layout_x="90px"
+android:layout_y="200px"
+>
+</Button>
+
+<Button
+android:id="@+id/BLogin"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:text=" Login "
+android:layout_x="170px"
+android:layout_y="200px"
+>
+</Button>
+
+
+</AbsoluteLayout>

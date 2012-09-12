@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+android:id="@+id/widget46"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+android:orientation="vertical"
+xmlns:android="http://schemas.android.com/apk/res/android"
+>
+<LinearLayout
+android:id="@+id/widget47"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+android:orientation="vertical"
+>
+<ImageView
+android:id="@+id/logo"
+android:src="@drawable/sbulogo"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content">
+</ImageView>
+
+<Button
+android:id="@+id/widget49"
+android:drawableLeft="@drawable/world"
+android:layout_width="fill_parent"
+android:layout_height="53dip"
+android:text="List Location"
+>
+</Button>
+
+<Button
+android:id="@+id/widget52"
+android:drawableLeft="@drawable/marker"
+android:layout_width="fill_parent"
+android:layout_height="53dip"
+android:layout_marginTop="5dip"
+android:text="Map Location"
+>
+
+</Button><Button android:id="@+id/widget53" 
+android:drawableLeft="@drawable/write" 
+android:layout_width="fill_parent" 
+android:layout_height="53dip" 
+android:layout_marginTop="5dip" 
+android:text="Post on Wall">
+</Button>
+
+<Button android:id="@+id/widget50" 
+android:drawableLeft="@drawable/feedback"
+android:layout_width="fill_parent" 
+android:layout_height="53dip" 
+android:layout_marginTop="5dip" 
+android:text="Feedback">
+</Button>
+
+<Button
+android:id="@+id/widget51"
+android:drawableLeft="@drawable/directions_icon"
+android:layout_width="fill_parent"
+android:layout_height="53dip"
+android:layout_marginTop="5dip"
+android:text="Driving Directions"
+>
+</Button>
+
+<Button
+android:id="@+id/widget54"
+android:drawableLeft="@drawable/fb_icon"
+android:layout_width="fill_parent"
+android:layout_height="53dip"
+android:layout_marginTop="5dip"
+android:text="FB Logout"
+>
+</Button>
+
+</LinearLayout>
+</LinearLayout>
